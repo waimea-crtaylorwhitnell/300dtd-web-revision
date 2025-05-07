@@ -1,11 +1,7 @@
 section #hero {
     min-height: 20rem;
-    background-color: hotpink;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    padding: 2rem;
-
+    background-color: var(--pico-primary-background);
+    
     display: flex;
     justify-content: center;
     align-items: center;
