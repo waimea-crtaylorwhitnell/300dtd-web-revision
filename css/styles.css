@@ -1,4 +1,4 @@
-section #hero {
+section#hero {
     min-height: 20rem;
     background-color: var(--pico-primary-background);
     
@@ -11,4 +11,9 @@ section #hero {
 section #hero h1 {
     color: white;
     font-size: 5rem;
+}
+
+section#likes div {
+    display: flex;
+    gap: 1rem;
 }
