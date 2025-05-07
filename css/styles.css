@@ -5,6 +5,11 @@ section #hero {
     justify-content: center;
     align-items: center;
     padding: 2rem;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 2rem;
 }
 
 section #hero h1 {
